@@ -45,4 +45,8 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 
 
+<<<<<<< HEAD
 Enjoy playing!
+=======
+Enjoy playing!
+>>>>>>> 70972a50ae937063e181c9dbedf88b78f9fac961

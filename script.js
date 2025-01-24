@@ -46,6 +46,7 @@ function game(playerChoice) {
     computerScoreSpan.textContent = `Computer Score: ${computerScore}`;
   }
 }
+//reset the scores
 const resetbutton = document.getElementById("reset");
 resetbutton.addEventListener("click", () => {
   userScore = 0;
